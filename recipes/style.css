@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: seagreen;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.title {
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+.name {
+    background-color: skyblue;
+    color: darkgoldenrod;
+}
+
+.des {
+    background-color: darkorange;
+    color: darkred;
+}
+
+.step {
+    background-color: chartreuse;
+    color: darkblue;
+}
+
+ul {
+    background-color: violet;
+}
+
+ol {
+    background-color: white;
+}
